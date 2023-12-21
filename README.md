@@ -8,7 +8,7 @@
 | ⌨️ programmer | 🦀 memer | pretend streamer | even more pretend mentor |
 | --- | --- | --- | --- |
 
-### Tools, Frameworks, & DBs
+### Tools, Frameworks & DBs
 
 <!-- icons are from https://github.com/github/explore/tree/main/topics, commit 2dca03adcddd05cb232d56c1ed100544cd57e3f8 -->
 <table>
